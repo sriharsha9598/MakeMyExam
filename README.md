@@ -1,5 +1,6 @@
 Note: Please Watch "WORKING DEMO.mp4" file uploaded here, to see the UI design and check the working of this project.
 
+
 This is a Full-Stack Web Project done by using the Technologies- Angular for Frontend; SPRING Boot as Middleware; JAVA, JPA with Hibernate for Backend and Oracle Database (SQL). 
 
 Features:
