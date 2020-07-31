@@ -14,8 +14,8 @@ Features:
 
 Use of this site:
 
-MakeMyExam is created to serve as a platform for online examination services. 
- This site helps the Managers to meet talented candidates for hiring them
+MakeMyExam is created to serve as a platform for online examination services. Anyone can easily create an exam with one's desired questions.
+- This site helps the Managers to meet talented candidates for hiring them
 - It helps the Teachers to conduct assignments, exams with easy evaluations and to test their students and help them in improving digital knowledge.
 -	It helps the unemployed to find jobs
 -	It helps the students to test their knowledge and learn their mistakes.
