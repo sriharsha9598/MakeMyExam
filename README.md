@@ -6,9 +6,9 @@ This is a Full-Stack Web Project done by using the Technologies- Angular for Fro
     
 Features:
 -	All the pages in this site are Completely RESPONSIVE which fits desktop, laptop, Ipad and Mobile.
--	The process of Creating an Exam or Writing an exam will be automatically Resumed when the internet goes down or window gets closed unfortunately and opens again.
+-	The process of Creating an Exam or Writing an exam will be automatically RESUMED when the internet goes down or window gets closed unfortunately and opens again.
 - All the answers will be automatically saved on every change.
--	The Exam Timer runs on its own code without any reference to system date & time and it will get paused and resumed in case of internet issue or browser issue.
+-	The Exam Timer runs on its own code without any reference to system date & time and it will get PAUSED and RESUMED in case of internet issue or browser issue.
 -	Proper navigation to a question on clicking the number, next or previous buttons and displaying the questions with various styles by classifying unattempted, attempted, current question and marked for review etc..,
  
 
